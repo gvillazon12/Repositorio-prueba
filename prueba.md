@@ -1,6 +1,3 @@
-## Estamos listos para hacer la prueba de cambio de estado
+## Documento para actualizar cada una de las pruebas realizadas para pasar a estado final en el jira.
 
-## Segunda prueba para el merge y cambio de estado
-## tercera prueba de prueba
-
-## Ajora si ya todo listo para su uso
+### Ultima prueba, prueba final.
